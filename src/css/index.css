@@ -1,0 +1,28 @@
+body {
+    font-family: Roboto, Arial, Consolas;
+    margin: 0;
+    padding: 0;
+    background-color: #101010;
+    color: #ccc;
+}
+
+#title {
+    text-align: center;
+}
+
+#main-wrapper {
+    height: 50%;
+    width: auto;
+    background-color: aqua;
+}
+
+#grid-square-table {
+    width: 30%;
+    height: 30%;
+}
+
+.grid-square {
+    width: 33.333%;
+    height: 33.333%;
+    background-color: red;
+}
