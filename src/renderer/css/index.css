@@ -11,18 +11,19 @@ body {
 }
 
 #main-wrapper {
-    height: 50%;
-    width: auto;
-    background-color: aqua;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 #grid-square-table {
-    width: 30%;
-    height: 30%;
+    width: 300px;
+    height: 300px;
+    background-color: #202020;
 }
 
 .grid-square {
     width: 33.333%;
     height: 33.333%;
-    background-color: red;
+    background-color: #101010;
 }
